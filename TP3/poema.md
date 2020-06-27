@@ -28,13 +28,14 @@ Sonhador, faze espada de combate!
 ### Nº Versos: 14
 ### Tipos de Estrofes
 Tipos de estrofes quanto ao número de versos:
-**Estrofe 1 -** Quadra
-**Estrofe 2 -** Quadra
-**Estrofe 3 -** Terceto
-**Estrofe 4 -** Terceto
+
+**Estrofe 1 -** Quadra  
+**Estrofe 2 -** Quadra  
+**Estrofe 3 -** Terceto  
+**Estrofe 4 -** Terceto  
 ## Esquema de Rimas
-**Estrofe 1 -** Interpolada
-**Estrofe 2 -** Interpolada
+**Estrofe 1 -** Interpolada  
+**Estrofe 2 -** Interpolada  
 ## Aliterações
 Este poema não contém nenhuma aliteração nos seus versos.
 ## Assonações
