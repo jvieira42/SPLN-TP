@@ -1,5 +1,6 @@
 # A UM POETA
-### Autor: Antero de QuentalTu, que dormes, espírito sereno,  
+### Autor: Antero de Quental
+Tu, que dormes, espírito sereno,  
 Posto à sombra dos cedros seculares,  
 Como um levita à sombra dos altares,  
 Longe da luta e do fragor terreno,  
@@ -19,7 +20,6 @@ Mas de guerra… e são vozes de rebate!
 Ergue-te, pois, soldado do Futuro,  
 E dos raios de luz do sonho puro,  
 Sonhador, faze espada de combate!  
-
 
 
 Tu, que dormes, espírito sereno,
@@ -65,55 +65,55 @@ Este poema não contém nenhuma aliteração nos seus versos.
 
 |   |   |
 |---|---|
-| **Substantivos** | luta; dormes; aceno; espírito; sol; sombra; seio; multidões; altares; tempo; teus; luz; levita; guerra; fragor; soldado; mares; raios; mundo; canções; tu; voz; combate; sonho; cedros; rebate; irmãos; |
-| **Advérbios**    | longe; já; só; |
-| **Adjetivos**    | alto; sereno; novo; terreno; tumulares; grande; vozes; pleno; larvas; puro; seculares; |
-| **Verbos**       | esperar; ergue-te; afugentou; espadar; surgir; erguer; |
+| **Substantivos** | teus; raios; tempo; rebate; sol; irmãos; espírito; guerra; mares; luta; mundo; luz; tu; sombra; levita; canções; soldado; cedros; altares; voz; multidões; aceno; seio; sonho; fragor; dormes; combate; |
+| **Advérbios**    | já; só; longe; |
+| **Adjetivos**    | puro; larvas; novo; alto; grande; vozes; sereno; pleno; seculares; terreno; tumulares; |
+| **Verbos**       | esperar; espadar; ergue-te; afugentou; surgir; erguer; |
 ## Famílias Semânticas
 
 |   |   |
 |---|---|
 | **dormes**    | altares; cedros; tumulares; raios; |
-| **espírito**    | seio; soldado; aceno; sonho; fragor; |
-| **sereno**    | terreno; pleno; sonhador; aceno; puro; |
-| **posto**    | longe; sonhador; soldado; |
-| **sombra**    | luz; guerra; luta; voz; |
-| **cedros**    | dormes; altares; mares; raios; combate; seculares; rebate; irmãos; |
-| **seculares**    | altares; cedros; rebate; |
+| **espírito**    | soldado; fragor; aceno; seio; sonho; |
+| **sereno**    | sonhador; aceno; pleno; terreno; puro; |
+| **posto**    | sonhador; soldado; longe; |
+| **sombra**    | luta; guerra; luz; voz; |
+| **cedros**    | altares; raios; dormes; rebate; seculares; irmãos; combate; mares; |
+| **seculares**    | rebate; cedros; altares; |
 | **como**    | pois; |
 | **levita**    | sol; espera; |
-| **altares**    | futuro; dormes; mares; combate; raios; cedros; seculares; rebate; irmãos; |
+| **altares**    | cedros; raios; dormes; futuro; rebate; seculares; irmãos; combate; mares; |
 | **longe**    | sonhador; posto; |
-| **luta**    | sombra; multidões; luz; guerra; rebate; |
-| **fragor**    | sol; futuro; seio; combate; aceno; sonhador; sonho; espírito; |
-| **terreno**    | pleno; sereno; sonho; puro; |
-| **acorda**    | guerra; escuta; |
-| **sol**    | futuro; seio; aceno; sonhador; levita; sonho; fragor; |
-| **alto**    | pleno; novo; |
-| **pleno**    | alto; novo; sereno; terreno; sonhador; puro; |
-| **larvas**    | mares; tumulares; multidões; |
-| **tumulares**    | vozes; multidões; dormes; mares; larvas; faze; guerra; rebate; |
-| **seio**    | sol; futuro; soldado; combate; aceno; fragor; sonho; espírito; |
-| **mares**    | tumulares; multidões; altares; larvas; raios; cedros; rebate; |
+| **luta**    | multidões; rebate; luz; sombra; guerra; |
+| **fragor**    | sonhador; futuro; aceno; sol; espírito; combate; seio; sonho; |
+| **terreno**    | sereno; puro; pleno; sonho; |
+| **acorda**    | escuta; guerra; |
+| **sol**    | fragor; sonhador; futuro; aceno; levita; seio; sonho; |
+| **alto**    | novo; pleno; |
+| **pleno**    | novo; alto; sereno; sonhador; terreno; puro; |
+| **larvas**    | multidões; tumulares; mares; |
+| **tumulares**    | larvas; vozes; dormes; multidões; faze; rebate; guerra; mares; |
+| **seio**    | soldado; fragor; futuro; aceno; sol; espírito; combate; sonho; |
+| **mares**    | larvas; cedros; altares; raios; multidões; rebate; tumulares; |
 | **mundo**    | aceno; |
-| **novo**    | alto; pleno; sonhador; puro; |
+| **novo**    | sonhador; pleno; alto; puro; |
 | **espera**    | levita; |
-| **aceno**    | mundo; sol; sereno; seio; fragor; puro; sonho; espírito; |
-| **escuta**    | combate; guerra; rebate; acorda; |
-| **voz**    | luz; sombra; |
-| **multidões**    | canções; luta; tumulares; vozes; mares; larvas; faze; rebate; |
-| **irmãos**    | altares; cedros; raios; |
-| **canções**    | vozes; multidões; |
-| **guerra**    | futuro; luta; sombra; acorda; tumulares; combate; escuta; luz; rebate; |
-| **vozes**    | canções; tumulares; multidões; |
-| **rebate**    | luta; tumulares; multidões; combate; altares; mares; raios; escuta; faze; cedros; luz; seculares; guerra; |
+| **aceno**    | puro; fragor; mundo; sereno; sol; espírito; seio; sonho; |
+| **escuta**    | combate; acorda; guerra; rebate; |
+| **voz**    | sombra; luz; |
+| **multidões**    | luta; canções; larvas; vozes; mares; faze; rebate; tumulares; |
+| **irmãos**    | cedros; altares; raios; |
+| **canções**    | multidões; vozes; |
+| **guerra**    | luta; escuta; acorda; futuro; rebate; luz; sombra; combate; tumulares; |
+| **vozes**    | multidões; canções; tumulares; |
+| **rebate**    | luta; escuta; combate; altares; cedros; raios; multidões; faze; tumulares; seculares; luz; guerra; mares; |
 | **pois**    | como; |
-| **soldado**    | sonho; espírito; posto; seio; |
-| **futuro**    | sol; seio; altares; sonhador; guerra; sonho; fragor; |
-| **raios**    | dormes; altares; mares; cedros; rebate; irmãos; |
-| **luz**    | luta; sombra; voz; guerra; rebate; |
-| **sonho**    | sol; futuro; seio; terreno; soldado; combate; aceno; sonhador; fragor; espírito; |
-| **puro**    | sereno; novo; terreno; pleno; aceno; |
-| **sonhador**    | sol; futuro; sereno; novo; posto; pleno; longe; sonho; fragor; |
-| **faze**    | rebate; tumulares; multidões; |
-| **combate**    | seio; altares; sonho; escuta; cedros; guerra; rebate; fragor; |
+| **soldado**    | espírito; posto; seio; sonho; |
+| **futuro**    | fragor; altares; sonhador; sol; guerra; seio; sonho; |
+| **raios**    | cedros; altares; dormes; rebate; irmãos; mares; |
+| **luz**    | luta; voz; rebate; sombra; guerra; |
+| **sonho**    | soldado; fragor; espírito; sonhador; futuro; aceno; sol; terreno; combate; seio; |
+| **puro**    | novo; sereno; aceno; pleno; terreno; |
+| **sonhador**    | fragor; posto; novo; sereno; futuro; pleno; longe; sol; sonho; |
+| **faze**    | multidões; rebate; tumulares; |
+| **combate**    | escuta; fragor; altares; cedros; rebate; guerra; seio; sonho; |
