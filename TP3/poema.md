@@ -1,9 +1,9 @@
 # A UM POETA
 ### Autor: Antero de Quental
-Tu, que dormes, espírito sereno,
-Posto à sombra dos cedros seculares,
-Como um levita à sombra dos altares,
-Longe da luta e do fragor terreno,
+Tu, que dormes, espírito sereno,  
+Posto à sombra dos cedros seculares,  
+Como um levita à sombra dos altares,  
+Longe da luta e do fragor terreno,  
 
 Acorda! é tempo! O Sol, já alto e pleno,
 Afugentou as larvas tumulares…
