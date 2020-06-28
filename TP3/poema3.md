@@ -38,7 +38,7 @@ Tipos de estrofes quanto ao número de versos:
 **Estrofe 2 -** Interpolada  
 ## Aliterações
 **Verso 14 -** "Leva-lhe o vento a voz, que ao vento deita" - Letra **v**  
-## Assonações
+## Assonâncias
 **Verso 2 -** "As ondas, que se estendem pela areia..." - Letra **e**  
 **Verso 3 -** "Os peixes, que no mar o sono enfreia..." - Letra **e**  
 **Verso 4 -** "O nocturno silêncio repousado..." - Letra **o**  
@@ -52,49 +52,49 @@ Tipos de estrofes quanto ao número de versos:
 
 |   |   |
 |---|---|
-| **Substantivos** | arvoredo; longe; morte; nome; pescador; água; nomeia; vento; mar; sono; fizestes; areia; –; ondas; céu; silêncio; voz; peixes; terra; |
-| **Advérbios**    | antes; brandamente; não; tão; onde; cedo; mais; |
-| **Adjetivos**    | sujeita; deita; nocturno; |
-| **Verbos**       | matar; falir; estender; dezia; move-se; poder; nomear; enfrear; repousar; sossegar; me; bater; tornai-me; deitar; amar; chorando; menear; |
+| **Substantivos** | morte; –; pescador; arvoredo; longe; voz; peixes; silêncio; vento; sono; céu; nomeia; fizestes; água; nome; terra; mar; ondas; areia; |
+| **Advérbios**    | não; onde; cedo; antes; mais; tão; brandamente; |
+| **Adjetivos**    | nocturno; deita; sujeita; |
+| **Verbos**       | estender; repousar; sossegar; poder; menear; nomear; enfrear; chorando; move-se; amar; dezia; falir; matar; bater; me; deitar; tornai-me; |
 ## Famílias Semânticas
 
 |   |   |
 |---|---|
-| **céu**    | arvoredo; nome; pescador; bate; vento; mar; sono; |
-| **terra**    | água; voz; ninfa; areia; morte; |
-| **vento**    | arvoredo; nome; pescador; céu; longe; silêncio; mar; sono; |
-| **sossegado**    | deitado; repousado; amado; nomeado; |
-| **areia**    | água; nomeia; voz; ninfa; morte; terra; |
-| **mar**    | arvoredo; nome; pescador; céu; vento; |
-| **sono**    | arvoredo; nome; pescador; enfreia; céu; longe; silêncio; nocturno; vento; |
-| **enfreia**    | deita; mate; fala; bate; nocturno; sono; meneia; |
-| **nocturno**    | enfreia; sono; nome; pescador; |
-| **silêncio**    | arvoredo; nome; pescador; aónio; longe; vento; sono; |
-| **repousado**    | sossegado; deitado; nomeado; amado; |
-| **pescador**    | arvoredo; nome; céu; silêncio; nocturno; vento; mar; sono; |
+| **céu**    | sono; mar; pescador; arvoredo; nome; bate; vento; |
+| **terra**    | morte; ninfa; voz; água; areia; |
+| **vento**    | sono; céu; pescador; mar; longe; silêncio; arvoredo; nome; |
+| **sossegado**    | deitado; repousado; nomeado; amado; |
+| **areia**    | morte; ninfa; nomeia; voz; água; terra; |
+| **mar**    | céu; pescador; arvoredo; nome; vento; |
+| **sono**    | céu; pescador; nocturno; longe; silêncio; arvoredo; enfreia; nome; vento; |
+| **enfreia**    | mate; sono; deita; fala; nocturno; meneia; bate; |
+| **nocturno**    | nome; sono; pescador; enfreia; |
+| **silêncio**    | sono; pescador; longe; arvoredo; aónio; nome; vento; |
+| **repousado**    | deitado; nomeado; sossegado; amado; |
+| **pescador**    | sono; céu; mar; nocturno; silêncio; arvoredo; nome; vento; |
 | **aónio**    | arvoredo; amado; silêncio; |
 | **que**    | onde; |
-| **deitado**    | sossegado; repousado; amado; nomeado; |
+| **deitado**    | repousado; nomeado; sossegado; amado; |
 | **onde**    | que; |
-| **água**    | voz; areia; morte; terra; |
-| **meneia**    | deita; enfreia; nomeia; mate; fala; bate; |
+| **água**    | voz; morte; areia; terra; |
+| **meneia**    | mate; deita; fala; nomeia; enfreia; bate; |
 | **chorando**    | leva-lhe; |
-| **nome**    | arvoredo; pescador; céu; longe; silêncio; nocturno; vento; mar; sono; |
-| **amado**    | sossegado; aónio; nomeado; deitado; repousado; |
-| **nomeia**    | sujeita; areia; morte; meneia; |
+| **nome**    | sono; céu; pescador; mar; nocturno; longe; silêncio; arvoredo; vento; |
+| **amado**    | repousado; nomeado; sossegado; deitado; aónio; |
+| **nomeia**    | morte; sujeita; areia; meneia; |
 | **pode**    | fala; |
-| **nomeado**    | amado; sossegado; deitado; repousado; |
+| **nomeado**    | deitado; repousado; sossegado; amado; |
 | **amor**    | ninfa; |
-| **mate**    | enfreia; fala; bate; meneia; |
-| **ninfa**    | areia; amor; terra; |
+| **mate**    | fala; bate; meneia; enfreia; |
+| **ninfa**    | amor; areia; terra; |
 | **cedo**    | brandamente; |
-| **morte**    | água; nomeia; voz; areia; terra; |
-| **sujeita**    | nomeia; deita; |
-| **fala**    | deita; enfreia; pode; mate; bate; meneia; |
-| **longe**    | sono; nome; vento; silêncio; |
-| **bate**    | arvoredo; deita; enfreia; céu; mate; fala; meneia; |
+| **morte**    | nomeia; voz; água; areia; terra; |
+| **sujeita**    | deita; nomeia; |
+| **fala**    | mate; deita; enfreia; pode; meneia; bate; |
+| **longe**    | nome; sono; silêncio; vento; |
+| **bate**    | mate; deita; céu; fala; arvoredo; enfreia; meneia; |
 | **brandamente**    | cedo; |
-| **arvoredo**    | nome; pescador; céu; aónio; silêncio; bate; vento; mar; sono; |
+| **arvoredo**    | sono; céu; pescador; mar; silêncio; aónio; nome; bate; vento; |
 | **leva-lhe**    | chorando; |
-| **voz**    | areia; água; morte; terra; |
-| **deita**    | sujeita; enfreia; fala; bate; meneia; |
+| **voz**    | terra; morte; água; areia; |
+| **deita**    | sujeita; fala; enfreia; bate; meneia; |
