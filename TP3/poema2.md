@@ -61,49 +61,49 @@ Tipos de estrofes quanto ao número de versos:
 
 |   |   |
 |---|---|
-| **Substantivos** | mente; alma; cala; amor; olhar; |
-| **Advérbios**    | muito; bem; só; quando; quanto; não; inteiramente; já; |
+| **Substantivos** | cala; amor; olhar; mente; alma; |
+| **Advérbios**    | quando; já; bem; não; muito; inteiramente; quanto; só; |
 | **Adjetivos**    | |
-| **Verbos**       | esquecer; estar; haver; sabe; fica; revelar; fala; ter; falir; ouvir; sentir; falar-lhe; dizer; bastar; amar; parecer; contar-lhe; saber; poder; ousar; querer; falar; contar; adivinhar; |
+| **Verbos**       | parecer; contar-lhe; fica; poder; adivinhar; falir; revelar; dizer; falar; bastar; contar; esquecer; sabe; saber; querer; falar-lhe; sentir; ouvir; fala; haver; ter; estar; amar; ousar; |
 ## Famílias Semânticas
 
 |   |   |
 |---|---|
 | **amor**    | olhar; |
-| **quando**    | que; mas; quanto; não; |
-| **revela**    | sabe; quer; sente; fala; parece; |
+| **quando**    | mas; quanto; não; que; |
+| **revela**    | fala; parece; sabe; sente; quer; |
 | **não**    | quando; |
-| **sabe**    | quer; sente; fica; revela; fala; parece; |
-| **revelar**    | esquecer; dizer; amar; falar; ouvir; contar; saber; inteiramente; olhar; |
-| **olhar**    | esquecer; revelar; dizer; amar; falar; puder; ouvir; contar; amor; saber; |
-| **mas**    | quando; nem; |
-| **falar**    | esquecer; revelar; dizer; amar; ouvir; contar; saber; olhar; |
+| **sabe**    | revela; fala; parece; sente; fica; quer; |
+| **revelar**    | ouvir; contar; esquecer; amar; olhar; inteiramente; saber; dizer; falar; |
+| **olhar**    | ouvir; puder; contar; esquecer; amar; amor; revelar; saber; dizer; falar; |
+| **mas**    | nem; quando; |
+| **falar**    | ouvir; contar; esquecer; amar; olhar; revelar; saber; dizer; |
 | **quem**    | que; |
-| **quer**    | sabe; revela; parece; sente; |
-| **dizer**    | esquecer; revelar; amar; falar; ouvir; contar; saber; olhar; |
-| **que**    | porque; quando; quem; quanto; |
-| **sente**    | sabe; quer; fica; mente; revela; parece; |
-| **fala**    | sabe; fica; mente; revela; alma; cala; parece; |
-| **parece**    | sabe; quer; sente; fica; revela; fala; |
-| **mente**    | sente; fica; fala; alma; cala; |
-| **cala**    | fala; fica; mente; |
-| **esquecer**    | revelar; dizer; amar; falar; ouvir; contar; saber; olhar; |
+| **quer**    | revela; sabe; sente; parece; |
+| **dizer**    | ouvir; contar; esquecer; amar; olhar; revelar; saber; falar; |
+| **que**    | quando; quanto; porque; quem; |
+| **sente**    | revela; parece; mente; sabe; fica; quer; |
+| **fala**    | cala; revela; parece; mente; alma; sabe; fica; |
+| **parece**    | revela; fala; sente; sabe; fica; quer; |
+| **mente**    | cala; fica; fala; alma; sente; |
+| **cala**    | mente; fala; fica; |
+| **esquecer**    | ouvir; contar; amar; olhar; revelar; saber; dizer; falar; |
 | **adivinhasse**    | pudesse; |
 | **pudesse**    | adivinhasse; |
-| **ouvir**    | esquecer; revelar; dizer; amar; falar; puder; contar; saber; olhar; |
-| **saber**    | esquecer; revelar; dizer; falar; ouvir; contar; olhar; |
-| **amar**    | esquecer; revelar; dizer; falar; ouvir; olhar; |
+| **ouvir**    | contar; puder; esquecer; amar; olhar; revelar; saber; dizer; falar; |
+| **saber**    | ouvir; contar; esquecer; olhar; revelar; dizer; falar; |
+| **amar**    | ouvir; esquecer; olhar; revelar; dizer; falar; |
 | **muito**    | inteiramente; |
 | **quanto**    | que; quando; |
-| **fica**    | sabe; sente; mente; fala; alma; cala; parece; |
-| **alma**    | fala; fica; mente; |
+| **fica**    | cala; fala; parece; mente; alma; sabe; sente; |
+| **alma**    | mente; fala; fica; |
 | **nem**    | mas; |
-| **inteiramente**    | muito; revelar; |
+| **inteiramente**    | revelar; muito; |
 | **isto**    | ouso; |
-| **puder**    | ouvir; contar; olhar; |
+| **puder**    | olhar; ouvir; contar; |
 | **contar-lhe**    | falar-lhe; |
-| **ouso**    | estou; isto; |
-| **contar**    | esquecer; revelar; dizer; falar; puder; ouvir; saber; olhar; |
+| **ouso**    | isto; estou; |
+| **contar**    | ouvir; puder; esquecer; olhar; revelar; saber; dizer; falar; |
 | **falar-lhe**    | contar-lhe; |
 | **porque**    | que; |
 | **estou**    | ouso; |
